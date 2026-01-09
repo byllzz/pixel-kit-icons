@@ -12,7 +12,7 @@ PixelKit is a lightweight, client-first SVG icon browser and toolbox. Browse an 
     <img src="https://img.shields.io/badge/Author-Bilal%20Malik-9B72FF.svg?style=flat" alt="Author" />
   </a>
   <a href="https://github.com/byllzz/pixel-kit-icons/releases">
-    <img src="https://img.shields.io/badge/Latest%20Release-—-9B72FF.svg" alt="Latest Release" />
+    <img src="https://img.shields.io/badge/Latest%20Release-Jan%209%2C%202026-9B72FF.svg" alt="Latest Release" />
   </a>
 </p>
 
@@ -66,16 +66,9 @@ Clone the repository and open locally, or host static files (Netlify / Vercel / 
 
 ```bash
 # clone
-git clone https://github.com/your-username/pixel-kit-icons.git
+git clone https://github.com/byllzz/pixel-kit-icons.git
 cd pixel-kit-icons
 
 # open index.html in your browser (or use Live Server)
-
----
-
-# License 📄
-
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
-
-Please contact me at bilalmlkdev@gmail.com if you have any feedback or suggestions. :star: Star it, if you like it!
-
+# e.g. in VSCode use Live Server extension, or host with a static server:
+# npx serve .   or   npx http-server .
