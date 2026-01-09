@@ -53,12 +53,6 @@ PixelKit is a small, dependency-light web app that:
 
 ---
 
-## Demo
-
-Open the live demo:
-[https://pixel-kit-icons.netlify.app](https://pixel-kit-icons.netlify.app)
-
----
 
 ## Installation
 
