@@ -18,7 +18,7 @@ PixelKit Icons is a lightweight, client-first SVG icon browser and toolbox. Brow
 
 <br>
 
-[![Visit PixelKit Icons](https://img.shields.io/badge/View-PixelKit Icons-9B72FF?style=flat)](https://pixelkit.vercel.app)
+[![Visit PixelKit Icons](https://img.shields.io/badge/View-PixelKit%20Icons-9B72FF?style=flat)](https://pixelkit.vercel.app)
 
 <img width="100%" alt="PixelKit Icons preview" src="./assets/previews/pixelkit-preview.png" />
 
