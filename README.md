@@ -1,4 +1,4 @@
-# <a href="https://pixel-kit-icons.vercel.app" target="_blank">PixelKit — Pixel-perfect SVG Icons</a>
+# <a href="https://pixelkit.vercel.app" target="_blank">PixelKit — Pixel-perfect SVG Icons</a>
 
 PixelKit is a lightweight, client-first SVG icon browser and toolbox. Browse an icon index on a CDN, inline icons into the page, and quickly search, resize, recolor, and copy pixel-perfect SVG markup — all in the browser with no uploads. Ideal for developers and designers who want fast access to SVG assets, easy styling via `currentColor`, and a small, accessible UI.
 
@@ -18,9 +18,9 @@ PixelKit is a lightweight, client-first SVG icon browser and toolbox. Browse an 
 
 <br>
 
-[![Visit PixelKit Demo](https://img.shields.io/badge/View-PixelKit-9B72FF?style=flat)](https://pixel-kit-icons.vercel.app)
+[![Visit PixelKit Icons](https://img.shields.io/badge/View-PixelKit-9B72FF?style=flat)](https://pixelkit.vercel.app)
 
-<img width="100%" alt="PixelKit preview" src="./assets/previews/pixelkit-preview.png" />
+<img width="100%" alt="PixelKit Icons preview" src="./assets/previews/pixelkit-preview.png" />
 
 ⭐ Star the repo on GitHub — it helps!
 
